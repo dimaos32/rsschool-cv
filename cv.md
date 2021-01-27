@@ -43,4 +43,5 @@ My education ended in high school - but this is compensated by a huge life exper
 ## Languages
 
 **English** A1 (beginner)
+
 **Russian** Native
