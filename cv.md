@@ -1,6 +1,7 @@
 # Dmitrii Osadchenko
 
 Russian Federation, St. Petersburg
+
 ## Contacts
 
 **cellphone:** +7-911-026-5036
@@ -16,6 +17,7 @@ For the last 10 years i worked in the warehouse logistics (storekeeper, warehous
 I am an extrovert, sociable, always open to new acquaintances and experiences, I am easily involved and carried away by what interests me. Purposeful, meticulous in detail, I have a high level of self-organization - I don't have to be kicked and forced to work. I try to do everything as efficiently as possible.
 
 I like delicious good tea. I like ice-hockey, I try to regularly attend live matches.
+
 ## Skills
 
 * Git
@@ -32,3 +34,13 @@ I like delicious good tea. I like ice-hockey, I try to regularly attend live mat
 * npm
 * Bash
 
+[My GitHub Repositiry](https://github.com/dimaos32)
+
+## Education
+
+My education ended in high school - but this is compensated by a huge life experience and work with a huge number of different people
+
+## Languages
+
+**English** A1 (beginner)
+**Russian** Native
