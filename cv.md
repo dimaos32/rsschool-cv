@@ -16,5 +16,19 @@ For the last 10 years i worked in the warehouse logistics (storekeeper, warehous
 I am an extrovert, sociable, always open to new acquaintances and experiences, I am easily involved and carried away by what interests me. Purposeful, meticulous in detail, I have a high level of self-organization - I don't have to be kicked and forced to work. I try to do everything as efficiently as possible.
 
 I like delicious good tea. I like ice-hockey, I try to regularly attend live matches.
+## Skills
 
+* Git
+* CSS3
+* HTML5
+* BEM Methodology
+* Sass / scss
+* Gulp
+* DevTools
+* Figma
+* Adobe Photoshop
+* JavaScript
+* webpack
+* npm
+* Bash
 
