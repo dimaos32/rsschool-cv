@@ -1,7 +1,6 @@
 # Dmitrii Osadchenko
 
 Russian Federation, St. Petersburg
-
 ## Contacts
 
 **cellphone:** +7-911-026-5036
@@ -18,29 +17,4 @@ I am an extrovert, sociable, always open to new acquaintances and experiences, I
 
 I like delicious good tea. I like ice-hockey, I try to regularly attend live matches.
 
-## Skills
 
-* Git
-* CSS3
-* HTML5
-* BEM Methodology
-* Sass / scss
-* Gulp
-* DevTools
-* Figma
-* Adobe Photoshop
-* JavaScript
-* webpack
-* npm
-* Bash
-
-[My GitHub Repositiry](https://github.com/dimaos32)
-
-## Education
-
-My education ended in high school - but this is compensated by a huge life experience and work with a huge number of different people
-
-## Languages
-
-**English** A1 (beginner)
-**Russian** Native
