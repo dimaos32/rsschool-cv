@@ -54,7 +54,7 @@ p:last-of-type {
 
 header,
 section {
-  margin-bottom: 20px;
+  margin: 0 40px 20px;
 }
 
 section:last-of-type {
