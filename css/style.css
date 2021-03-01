@@ -169,8 +169,10 @@ footer .container {
 
 .copyright {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: flex-end;
   align-items: center;
+  margin-left: 2em;
 }
 
 .copyright p {
@@ -180,7 +182,6 @@ footer .container {
 
 .social {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   margin: 0;
   padding: 0;
