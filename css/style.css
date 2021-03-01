@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -53,16 +57,17 @@ p:last-of-type {
 }
 
 header,
-section {
-  margin-bottom: 20px;
-}
-
-section:last-of-type {
-  margin-bottom: 40px;
+section,
+footer {
+  margin: 0 40px 20px;
 }
 
 header {
   margin-top: 40px;
+}
+
+footer {
+  margin-bottom: 40px;
 }
 
 header .container {
@@ -70,6 +75,40 @@ header .container {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-start;
+}
+
+nav {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  margin: 0;
+  margin-left: -10px;
+  padding: 0;
+  list-style: none;
+}
+
+nav a {
+  display: flex;
+  margin-left: 10px;
+  margin-bottom: 0.5em;
+  padding: 5px 10px;
+  border: 2px solid darkblue;
+  border-radius: 0.5em;
+}
+
+nav a:hover,
+nav a:focus {
+  border: 2px solid darkred;
+}
+
+.header-content {
+  margin-bottom: 30px;
 }
 
 header img {
@@ -80,26 +119,29 @@ header img {
   border-radius: 20px;
 }
 
-.contacts dl {
+.contacts ul {
   margin: 0;
+  padding: 0;
+  list-style: none;
   padding-left: 2em;
 }
 
-.contacts dl div {
+.contacts li{
   display: flex;
   margin-bottom: 0.5em;
 }
 
-.contacts dl div:last-of-type {
+.contacts li:last-of-type {
   margin-bottom: 0;
 }
 
-.contacts dt {
-  width: 100px;
+.contacts p {
+  padding-left: 0;
+  width: 90px;
 }
 
-.contacts dd {
-  margin: 0;
+.contacts a {
+  display: block;
 }
 
 .skills ul {
@@ -120,7 +162,7 @@ header img {
   border-radius: 0.5em;
 }
 
-.skills a {
+.skills p {
   display: block;
   width: max-content;
   margin-left: auto;
@@ -148,4 +190,63 @@ header img {
 
 .languages dd {
   margin: 0;
+}
+
+footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.partner {
+  display: block;
+}
+
+.partner img{
+  display: block;
+  width: 75px;
+  height: 28px;
+}
+
+.copyright {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+  margin-left: 2em;
+}
+
+.copyright p {
+  padding-left: 0;
+  font-size: 1.5rem;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social li {
+  padding-left: 1em;
+}
+.social a {
+  display: block;
+}
+
+.social a:hover,
+.social a:focus {
+  opacity: 0.6;
+}
+
+.social a:active {
+  opacity: 0.3;
+}
+
+.social img{
+  display: block;
+  width: 28px;
+  height: 28px;
 }
