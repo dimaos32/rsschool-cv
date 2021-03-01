@@ -119,26 +119,29 @@ header img {
   border-radius: 20px;
 }
 
-.contacts dl {
+.contacts ul {
   margin: 0;
+  padding: 0;
+  list-style: none;
   padding-left: 2em;
 }
 
-.contacts dl div {
+.contacts li{
   display: flex;
   margin-bottom: 0.5em;
 }
 
-.contacts dl div:last-of-type {
+.contacts li:last-of-type {
   margin-bottom: 0;
 }
 
-.contacts dt {
-  width: 100px;
+.contacts p {
+  padding-left: 0;
+  width: 90px;
 }
 
-.contacts dd {
-  margin: 0;
+.contacts a {
+  display: block;
 }
 
 .skills ul {
