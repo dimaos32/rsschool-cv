@@ -53,16 +53,17 @@ p:last-of-type {
 }
 
 header,
-section {
+section,
+footer {
   margin: 0 40px 20px;
-}
-
-section:last-of-type {
-  margin-bottom: 40px;
 }
 
 header {
   margin-top: 40px;
+}
+
+footer {
+  margin-bottom: 40px;
 }
 
 header .container {
@@ -148,4 +149,62 @@ header img {
 
 .languages dd {
   margin: 0;
+}
+
+footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.partner {
+  display: block;
+}
+
+.partner img{
+  display: block;
+  width: 75px;
+  height: 28px;
+}
+
+.copyright {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.copyright p {
+  padding-left: 0;
+  font-size: 1.5rem;
+}
+
+.social {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social li {
+  padding-left: 1em;
+}
+.social a {
+  display: block;
+}
+
+.social a:hover,
+.social a:focus {
+  opacity: 0.6;
+}
+
+.social a:active {
+  opacity: 0.3;
+}
+
+.social img{
+  display: block;
+  width: 28px;
+  height: 28px;
 }
